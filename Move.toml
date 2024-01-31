@@ -4,6 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
+SuperEnterprises = "0x25df7a0403b7a2a4771676dffedfe55426e03d10dd553c6f0665765ad44e303a"
 
 [dev-addresses]
 
