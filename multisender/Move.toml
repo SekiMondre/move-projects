@@ -1,0 +1,16 @@
+[package]
+name = "multisender"
+version = "1.0.0"
+authors = []
+
+[addresses]
+seki_mondre = "0xcd75aee5277c1227504c2535e9a46b2fd21e4459cb41bbd80b075c38d43510ef"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
